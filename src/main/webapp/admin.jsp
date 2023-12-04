@@ -15,5 +15,6 @@
 <body>
 	<%@include file = "header-navi.jsp"%>
 	<p>工事中</p>
+	<p>branchテストです</p>
 </body>
 </html>
